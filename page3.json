@@ -1,0 +1,111 @@
+{
+    "data":[
+        {
+            "id": 14,
+            "title": "test string ",
+            "content": "test content string",
+            "contentState": 0,
+            "contentType": 1,
+            "contentCategoryId": 2,
+            "contentCategory": {
+              "id": 2,
+              "title": "event cat",
+              "color": "#AB7BEA",
+              "contentType": 2,
+              "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "createdByUser": null,
+              "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "lastModifiedByUser": null
+            },
+            "contentTags": [
+              {
+                "id": 11,
+                "title": "tag test"
+              }
+            ],
+            "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "createdByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            },
+            "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "lastModifiedByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            }
+          },
+          {
+            "id": 6,
+            "title": "create title",
+            "content": "this is a content",
+            "contentState": 1,
+            "contentType": 1,
+            "contentCategoryId": 1,
+            "contentCategory": {
+              "id": 1,
+              "title": "art cat",
+              "color": "string",
+              "contentType": 1,
+              "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "createdByUser": null,
+              "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "lastModifiedByUser": null
+            },
+            "contentTags": [
+              {
+                "id": 3,
+                "title": "tag 4"
+              }
+            ],
+            "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "createdByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            },
+            "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "lastModifiedByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            }
+          }
+    ]
+    ,
+    "currentPage": 3,
+    "totalPages": 3,
+    "totalCount": 10,
+    "pageSize": 2,
+    "hasPreviousPage": true,
+    "hasNextPage": false
+}

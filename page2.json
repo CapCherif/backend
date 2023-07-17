@@ -1,0 +1,218 @@
+{
+    "data":[
+        {
+            "id": 18,
+            "title": "Lorem ipsum dolor sit amet consectetur",
+            "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit accumsan montes, auctor molestie mi facilisis mauris phasellus nunc imperdiet euismod faucibus, sagittis potenti litora ridiculus curabitur eu dui neque. Fusce",
+            "contentState": 1,
+            "contentType": 1,
+            "contentCategoryId": 2,
+            "contentCategory": {
+              "id": 2,
+              "title": "event cat",
+              "color": "#AB7BEA",
+              "contentType": 2,
+              "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "createdByUser": null,
+              "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "lastModifiedByUser": null
+            },
+            "contentTags": [
+              {
+                "id": 15,
+                "title": "string 333"
+              }
+            ],
+            "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "createdByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            },
+            "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "lastModifiedByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            }
+          },
+          {
+            "id": 19,
+            "title": "Lorem ipsum dolor sit amet consectetur",
+            "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit accumsan montes, auctor molestie mi facilisis mauris phasellus nunc imperdiet euismod faucibus, sagittis potenti litora ridiculus curabitur eu dui neque. Fusce",
+            "contentState": 1,
+            "contentType": 1,
+            "contentCategoryId": 2,
+            "contentCategory": {
+              "id": 2,
+              "title": "event cat",
+              "color": "#AB7BEA",
+              "contentType": 2,
+              "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "createdByUser": null,
+              "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "lastModifiedByUser": null
+            },
+            "contentTags": [
+              {
+                "id": 16,
+                "title": "string 333"
+              }
+            ],
+            "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "createdByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            },
+            "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "lastModifiedByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            }
+          },
+          {
+            "id": 20,
+            "title": "Lorem ipsum dolor sit amet consectetur",
+            "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit accumsan montes, auctor molestie mi facilisis mauris phasellus nunc imperdiet euismod faucibus, sagittis potenti litora ridiculus curabitur eu dui neque. Fusce",
+            "contentState": 1,
+            "contentType": 1,
+            "contentCategoryId": 2,
+            "contentCategory": {
+              "id": 2,
+              "title": "event cat",
+              "color": "#AB7BEA",
+              "contentType": 2,
+              "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "createdByUser": null,
+              "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "lastModifiedByUser": null
+            },
+            "contentTags": [
+              {
+                "id": 17,
+                "title": "string 333"
+              }
+            ],
+            "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "createdByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            },
+            "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "lastModifiedByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            }
+          },
+          {
+            "id": 22,
+            "title": "string",
+            "content": "string",
+            "contentState": 0,
+            "contentType": 1,
+            "contentCategoryId": 1,
+            "contentCategory": {
+              "id": 1,
+              "title": "art cat",
+              "color": "string",
+              "contentType": 1,
+              "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "createdByUser": null,
+              "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "lastModifiedByUser": null
+            },
+            "contentTags": [
+              {
+                "id": 21,
+                "title": "string"
+              },
+              {
+                "id": 22,
+                "title": "string"
+              },
+              {
+                "id": 23,
+                "title": "string"
+              }
+            ],
+            "createdBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "createdByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            },
+            "lastModifiedBy": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+            "lastModifiedByUser": {
+              "id": "f77b1c33-d2a3-4b5d-9751-fff409e2908e",
+              "userName": "abdelkhalek.boukri@intelifox.com",
+              "firstName": "Abdelkhalek",
+              "lastName": "Boukri",
+              "email": "abdelkhalek.boukri@intelifox.com",
+              "isActive": true,
+              "emailConfirmed": true,
+              "phoneNumber": null,
+              "imageUrl": null,
+              "tenantId": null
+            }
+          }
+    ],
+    "currentPage": 2,
+    "totalPages": 3,
+    "totalCount": 10,
+    "pageSize": 4,
+    "hasPreviousPage": true,
+    "hasNextPage": true
+}
